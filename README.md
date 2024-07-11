@@ -12,7 +12,7 @@ I'm G-Lin1k. I have a passion for learning and exploring the field of Computer S
 - 🌱 I’m currently learning advanced concepts in web development, animations with GSAP and Framer Motion, and integrating third-party APIs.
 - 👯 I’m looking to collaborate on open-source projects related to web development, animations, and UI/UX design.
 - 🤔 I’m looking for help with deploying complex full-stack applications on platforms like Netlify, Vercel, and Heroku.
-- 💬 Ask me about anything related to web development, Tailwind CSS, or React.
+- 💬 Ask me about anything related to web development
 <!--- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marjuenz-suparto/) | [Email](mailto:marjuenzo110@gmail.com) -->
 - 😄 Code Language : C, C++, Java, PHP, Javascript, Kotlin, GoLang, Python, Shell (Bash)
 - 😁 Talk Language : Indonesia & English
